@@ -1,0 +1,7 @@
+[
+  {"device_id": "blr-edge-01", "hostname": "blr-edge-01", "region": "ap-south-1", "device_type": "router", "simulated_status": "healthy"},
+  {"device_id": "blr-sw-01", "hostname": "blr-sw-01", "region": "ap-south-1", "device_type": "switch", "simulated_status": "degraded"},
+  {"device_id": "sin-edge-01", "hostname": "sin-edge-01", "region": "ap-southeast-1", "device_type": "router", "simulated_status": "offline"},
+  {"device_id": "sin-sw-01", "hostname": "sin-sw-01", "region": "ap-southeast-1", "device_type": "switch", "simulated_status": "healthy"},
+  {"device_id": "fra-edge-01", "hostname": "fra-edge-01", "region": "eu-central-1", "device_type": "router", "simulated_status": "healthy"}
+]
